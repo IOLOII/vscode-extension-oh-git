@@ -1,20 +1,47 @@
 {
-  "name": "oh--git",
+  "name": "oh-git",
   "displayName": "Oh! Git",
   "description": "packed serveral usefull functional git extensions  ",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "IOLOII",
+  "license": "MIT",
   "engines": {
     "vscode": "^0.10.5"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "vsce-publish": "vsce publish"
   },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [
+  "keywords": [
+    "Oh! Git",
+    "IOLOII",
+    "ioloii",
+    "git",
+    "stash",
+    "commit",
+    "git graph",
+    "git stash",
     "waderyan.gitblame",
     "mhutchie.git-graph",
     "donjayamanne.githistory",
     "arturock.gitstash",
-    "codezombiech.gitignore",
+    "codezombiech.giignore",
     "rioukkevin.vscode-git-commit"
-  ]
+  ],
+  "extensionPack": [
+    "rioukkevin.vscode-git-commit",
+    "waderyan.gitblame",
+    "mhutchie.git-graph",
+    "arturock.gitstash",
+    "donjayamanne.githistory",
+    "codezombiech.giignore"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IOLOII/vscode-extension-oh-git.git"
+  },
+  "icon": "icons8-git-150.png"
 }
