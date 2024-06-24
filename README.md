@@ -1,5 +1,5 @@
 # Oh! Git
-<img src="icons8-git-150.png">
+<img src="https://github.com/IOLOII/vscode-extension-oh-git/blob/master/icons8-git-150.png?raw=true">
 
 > Here are some extension for git which may give you better experience.
 
@@ -11,6 +11,7 @@
 * **Qucik add or append gitignore  (with Ctrl+Shift+P or F1)**
 * **Inline commit message**
 
+<img src="https://raw.githubusercontent.com/IOLOII/vscode-extension-oh-git/master/Snipaste_2024-06-24_17-57-23.png">
 
 # How to set with these extensions?
 
@@ -145,7 +146,7 @@ It's a bit complicated, I don't need too many features. I want more disposable, 
 
 # License
 
-[MIT License](https://github.com/IOLOII/IOLOII-vscode-theme/blob/master/LICENSE)
+[MIT License](https://github.com/IOLOII/vscode-extension-oh-git/blob/master/LICENSE)
 
 **Enjoy!**
 
