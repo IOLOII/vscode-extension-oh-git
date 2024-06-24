@@ -1,0 +1,20 @@
+{
+  "name": "oh--git",
+  "displayName": "Oh! Git",
+  "description": "packed serveral usefull functional git extensions  ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^0.10.5"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "waderyan.gitblame",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "arturock.gitstash",
+    "codezombiech.gitignore",
+    "rioukkevin.vscode-git-commit"
+  ]
+}
