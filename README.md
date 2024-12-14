@@ -3,6 +3,13 @@
 
 > Here are some extension for git which may give you better experience.
 
+## VPN Proxy Services registry 1$/m
+
+Here is : https://invite.spcloud.vip/#/register?code=27J05Na5
+
+Wish you have a good experience.
+
+
 ## ? When you install this pack, what you will get for git
 
 * **Visualization operation**

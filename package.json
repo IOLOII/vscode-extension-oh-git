@@ -2,7 +2,7 @@
   "name": "oh-git",
   "displayName": "Oh! Git",
   "description": "Packed some usefull functional git extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "IOLOII",
   "license": "MIT",
   "engines": {
