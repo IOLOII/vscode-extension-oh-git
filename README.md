@@ -1,5 +1,6 @@
 # Oh! Git
 <img src="https://github.com/IOLOII/vscode-extension-oh-git/blob/master/icons8-git-150.png?raw=true">
+<img width="1394" alt="image" src="https://github.com/user-attachments/assets/48835f46-9e20-481a-8e12-617df293f966" />
 
 > Here are some extension for git which may give you better experience.
 
