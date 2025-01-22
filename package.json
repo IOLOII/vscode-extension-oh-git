@@ -2,7 +2,7 @@
   "name": "oh-git",
   "displayName": "Oh! Git",
   "description": "Packed some usefull functional git extensions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "IOLOII",
   "license": "MIT",
   "engines": {
@@ -29,7 +29,8 @@
     "donjayamanne.githistory",
     "arturock.gitstash",
     "codezombiech.giignore",
-    "rioukkevin.vscode-git-commit"
+    "rioukkevin.vscode-git-commit",
+    "Oh! GitChart"
   ],
   "extensionPack": [
     "rioukkevin.vscode-git-commit",
@@ -37,7 +38,8 @@
     "mhutchie.git-graph",
     "arturock.gitstash",
     "donjayamanne.githistory",
-    "codezombiech.giignore"
+    "codezombiech.giignore",
+    "IOLOII.git-chart"
   ],
   "repository": {
     "type": "git",

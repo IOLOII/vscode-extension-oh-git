@@ -1,4 +1,5 @@
 # Oh! Git
+
 <img src="https://github.com/IOLOII/vscode-extension-oh-git/blob/master/icons8-git-150.png?raw=true">
 <img width="1394" alt="image" src="https://github.com/user-attachments/assets/48835f46-9e20-481a-8e12-617df293f966" />
 
@@ -9,7 +10,6 @@
 Here is : https://invite.spcloud.vip/#/register?code=27J05Na5
 
 Wish you have a good experience.
-
 
 ## ? When you install this pack, what you will get for git
 
@@ -126,6 +126,7 @@ Here ars some tips: (paste into setting.json)
 ```
 
 ## waderyan.gitblame
+
 ```json
 "gitblame.statusBarMessageClickAction": "Open git show",
 "gitblame.ignoreWhitespace": true,
@@ -147,6 +148,11 @@ No need for excessive settings
 ## codezombiech.gitignore
 
 No need for excessive settings
+
+
+## IOLOII.git-chart
+
+Simple to show git commit count or commit detail for all user in current repo
 
 # Why not add GitLens ?
 
